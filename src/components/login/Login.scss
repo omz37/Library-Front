@@ -1,0 +1,15 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.submit-btn{
+    background-color: black;
+    color: white;
+}
+
+.alert-box {
+    font-size: 15px;
+}

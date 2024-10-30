@@ -1,0 +1,27 @@
+@import '~bootstrap/scss/bootstrap';
+
+.app {
+  min-height: 100vh;
+  background-color: antiquewhite;
+}
+.body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.clickable-card {
+  cursor: pointer;
+}
+
+.pagination > li > a
+{
+  background-color: #678B98;
+  color: black;
+}
+
+.pagination > .active > a
+{
+  color: white;
+  background-color: #5A4181 !important;
+  border: solid 1px #5A4181 !important;
+}
